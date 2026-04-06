@@ -175,4 +175,4 @@ Use `VIDEO_SCRIPT.md` as the talk track for the 6 to 8 minute submission video.
 
 The repository is published publicly at:
 
-https://github.com/Mohammad-Ghouse-virtuoso/filesure-assign
+[filesure-assign](https://github.com/Mohammad-Ghouse-virtuoso/filesure-assign)
