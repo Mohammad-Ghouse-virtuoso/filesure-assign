@@ -15,7 +15,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 1",
-      "ingested_at": "2026-04-06T17:51:12.117000"
+      "ingested_at": "2026-04-06T19:19:26.534000"
     }
   },
   {
@@ -34,7 +34,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 2",
-      "ingested_at": "2026-04-06T17:51:12.118000"
+      "ingested_at": "2026-04-06T19:19:26.550000"
     }
   },
   {
@@ -52,7 +52,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 3",
-      "ingested_at": "2026-04-06T17:51:12.119000"
+      "ingested_at": "2026-04-06T19:19:26.551000"
     }
   },
   {
@@ -71,7 +71,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 4",
-      "ingested_at": "2026-04-06T17:51:12.119000"
+      "ingested_at": "2026-04-06T19:19:26.552000"
     }
   },
   {
@@ -90,7 +90,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 5",
-      "ingested_at": "2026-04-06T17:51:12.120000"
+      "ingested_at": "2026-04-06T19:19:26.553000"
     }
   },
   {
@@ -109,7 +109,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 6",
-      "ingested_at": "2026-04-06T17:51:12.120000"
+      "ingested_at": "2026-04-06T19:19:26.554000"
     }
   },
   {
@@ -128,7 +128,7 @@
     "email_valid": false,
     "data_quality": {
       "notes": "Row 7",
-      "ingested_at": "2026-04-06T17:51:12.121000"
+      "ingested_at": "2026-04-06T19:19:26.556000"
     }
   },
   {
@@ -146,7 +146,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 8",
-      "ingested_at": "2026-04-06T17:51:12.122000"
+      "ingested_at": "2026-04-06T19:19:26.557000"
     }
   },
   {
@@ -165,7 +165,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 9",
-      "ingested_at": "2026-04-06T17:51:12.123000"
+      "ingested_at": "2026-04-06T19:19:26.558000"
     }
   },
   {
@@ -184,7 +184,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 10",
-      "ingested_at": "2026-04-06T17:51:12.124000"
+      "ingested_at": "2026-04-06T19:19:26.560000"
     }
   },
   {
@@ -203,7 +203,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 11",
-      "ingested_at": "2026-04-06T17:51:12.124000"
+      "ingested_at": "2026-04-06T19:19:26.562000"
     }
   },
   {
@@ -222,7 +222,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 12",
-      "ingested_at": "2026-04-06T17:51:12.125000"
+      "ingested_at": "2026-04-06T19:19:26.563000"
     }
   },
   {
@@ -241,7 +241,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 13",
-      "ingested_at": "2026-04-06T17:51:12.125000"
+      "ingested_at": "2026-04-06T19:19:26.565000"
     }
   },
   {
@@ -260,7 +260,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 14",
-      "ingested_at": "2026-04-06T17:51:12.126000"
+      "ingested_at": "2026-04-06T19:19:26.566000"
     }
   },
   {
@@ -279,7 +279,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 15",
-      "ingested_at": "2026-04-06T17:51:12.126000"
+      "ingested_at": "2026-04-06T19:19:26.568000"
     }
   },
   {
@@ -297,7 +297,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 16",
-      "ingested_at": "2026-04-06T17:51:12.127000"
+      "ingested_at": "2026-04-06T19:19:26.570000"
     }
   },
   {
@@ -316,7 +316,7 @@
     "email_valid": false,
     "data_quality": {
       "notes": "Row 17",
-      "ingested_at": "2026-04-06T17:51:12.127000"
+      "ingested_at": "2026-04-06T19:19:26.572000"
     }
   },
   {
@@ -334,7 +334,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 18",
-      "ingested_at": "2026-04-06T17:51:12.128000"
+      "ingested_at": "2026-04-06T19:19:26.573000"
     }
   },
   {
@@ -353,7 +353,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 19",
-      "ingested_at": "2026-04-06T17:51:12.129000"
+      "ingested_at": "2026-04-06T19:19:26.575000"
     }
   },
   {
@@ -371,7 +371,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 20",
-      "ingested_at": "2026-04-06T17:51:12.129000"
+      "ingested_at": "2026-04-06T19:19:26.576000"
     }
   },
   {
@@ -390,7 +390,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 21",
-      "ingested_at": "2026-04-06T17:51:12.130000"
+      "ingested_at": "2026-04-06T19:19:26.578000"
     }
   },
   {
@@ -408,7 +408,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 22",
-      "ingested_at": "2026-04-06T17:51:12.130000"
+      "ingested_at": "2026-04-06T19:19:26.580000"
     }
   },
   {
@@ -427,7 +427,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 23",
-      "ingested_at": "2026-04-06T17:51:12.130000"
+      "ingested_at": "2026-04-06T19:19:26.582000"
     }
   },
   {
@@ -446,7 +446,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 24",
-      "ingested_at": "2026-04-06T17:51:12.131000"
+      "ingested_at": "2026-04-06T19:19:26.584000"
     }
   },
   {
@@ -465,7 +465,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 25",
-      "ingested_at": "2026-04-06T17:51:12.131000"
+      "ingested_at": "2026-04-06T19:19:26.585000"
     }
   },
   {
@@ -483,7 +483,7 @@
     "email_valid": false,
     "data_quality": {
       "notes": "Row 26",
-      "ingested_at": "2026-04-06T17:51:12.132000"
+      "ingested_at": "2026-04-06T19:19:26.588000"
     }
   },
   {
@@ -502,7 +502,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 27",
-      "ingested_at": "2026-04-06T17:51:12.132000"
+      "ingested_at": "2026-04-06T19:19:26.590000"
     }
   },
   {
@@ -520,7 +520,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 28",
-      "ingested_at": "2026-04-06T17:51:12.134000"
+      "ingested_at": "2026-04-06T19:19:26.592000"
     }
   },
   {
@@ -539,7 +539,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 29",
-      "ingested_at": "2026-04-06T17:51:12.135000"
+      "ingested_at": "2026-04-06T19:19:26.611000"
     }
   },
   {
@@ -558,7 +558,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 30",
-      "ingested_at": "2026-04-06T17:51:12.136000"
+      "ingested_at": "2026-04-06T19:19:26.613000"
     }
   },
   {
@@ -577,7 +577,7 @@
     "email_valid": false,
     "data_quality": {
       "notes": "Row 31",
-      "ingested_at": "2026-04-06T17:51:12.137000"
+      "ingested_at": "2026-04-06T19:19:26.614000"
     }
   },
   {
@@ -596,7 +596,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 32",
-      "ingested_at": "2026-04-06T17:51:12.138000"
+      "ingested_at": "2026-04-06T19:19:26.616000"
     }
   },
   {
@@ -614,7 +614,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 33",
-      "ingested_at": "2026-04-06T17:51:12.139000"
+      "ingested_at": "2026-04-06T19:19:26.617000"
     }
   },
   {
@@ -633,7 +633,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 34",
-      "ingested_at": "2026-04-06T17:51:12.140000"
+      "ingested_at": "2026-04-06T19:19:26.618000"
     }
   },
   {
@@ -652,7 +652,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 35",
-      "ingested_at": "2026-04-06T17:51:12.140000"
+      "ingested_at": "2026-04-06T19:19:26.620000"
     }
   },
   {
@@ -671,7 +671,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 36",
-      "ingested_at": "2026-04-06T17:51:12.141000"
+      "ingested_at": "2026-04-06T19:19:26.621000"
     }
   },
   {
@@ -690,7 +690,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 37",
-      "ingested_at": "2026-04-06T17:51:12.142000"
+      "ingested_at": "2026-04-06T19:19:26.623000"
     }
   },
   {
@@ -708,7 +708,7 @@
     "email_valid": false,
     "data_quality": {
       "notes": "Row 38",
-      "ingested_at": "2026-04-06T17:51:12.143000"
+      "ingested_at": "2026-04-06T19:19:26.634000"
     }
   },
   {
@@ -727,7 +727,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 39",
-      "ingested_at": "2026-04-06T17:51:12.143000"
+      "ingested_at": "2026-04-06T19:19:26.636000"
     }
   },
   {
@@ -746,7 +746,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 40",
-      "ingested_at": "2026-04-06T17:51:12.144000"
+      "ingested_at": "2026-04-06T19:19:26.639000"
     }
   },
   {
@@ -765,7 +765,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 41",
-      "ingested_at": "2026-04-06T17:51:12.145000"
+      "ingested_at": "2026-04-06T19:19:26.641000"
     }
   },
   {
@@ -784,7 +784,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 42",
-      "ingested_at": "2026-04-06T17:51:12.146000"
+      "ingested_at": "2026-04-06T19:19:26.642000"
     }
   },
   {
@@ -803,7 +803,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 43",
-      "ingested_at": "2026-04-06T17:51:12.147000"
+      "ingested_at": "2026-04-06T19:19:26.645000"
     }
   },
   {
@@ -822,7 +822,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 44",
-      "ingested_at": "2026-04-06T17:51:12.148000"
+      "ingested_at": "2026-04-06T19:19:26.647000"
     }
   },
   {
@@ -841,7 +841,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 45",
-      "ingested_at": "2026-04-06T17:51:12.148000"
+      "ingested_at": "2026-04-06T19:19:26.649000"
     }
   },
   {
@@ -860,7 +860,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 46",
-      "ingested_at": "2026-04-06T17:51:12.149000"
+      "ingested_at": "2026-04-06T19:19:26.651000"
     }
   },
   {
@@ -879,7 +879,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 47",
-      "ingested_at": "2026-04-06T17:51:12.150000"
+      "ingested_at": "2026-04-06T19:19:26.653000"
     }
   },
   {
@@ -898,7 +898,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 48",
-      "ingested_at": "2026-04-06T17:51:12.150000"
+      "ingested_at": "2026-04-06T19:19:26.662000"
     }
   },
   {
@@ -917,7 +917,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 49",
-      "ingested_at": "2026-04-06T17:51:12.151000"
+      "ingested_at": "2026-04-06T19:19:26.664000"
     }
   },
   {
@@ -935,7 +935,7 @@
     "email_valid": false,
     "data_quality": {
       "notes": "Row 50",
-      "ingested_at": "2026-04-06T17:51:12.152000"
+      "ingested_at": "2026-04-06T19:19:26.665000"
     }
   },
   {
@@ -954,7 +954,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 51",
-      "ingested_at": "2026-04-06T17:51:12.153000"
+      "ingested_at": "2026-04-06T19:19:26.667000"
     }
   },
   {
@@ -973,7 +973,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 52",
-      "ingested_at": "2026-04-06T17:51:12.154000"
+      "ingested_at": "2026-04-06T19:19:26.668000"
     }
   },
   {
@@ -992,7 +992,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 53",
-      "ingested_at": "2026-04-06T17:51:12.155000"
+      "ingested_at": "2026-04-06T19:19:26.678000"
     }
   },
   {
@@ -1011,7 +1011,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 54",
-      "ingested_at": "2026-04-06T17:51:12.156000"
+      "ingested_at": "2026-04-06T19:19:26.679000"
     }
   },
   {
@@ -1030,7 +1030,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 55",
-      "ingested_at": "2026-04-06T17:51:12.156000"
+      "ingested_at": "2026-04-06T19:19:26.681000"
     }
   },
   {
@@ -1049,7 +1049,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 56",
-      "ingested_at": "2026-04-06T17:51:12.157000"
+      "ingested_at": "2026-04-06T19:19:26.683000"
     }
   },
   {
@@ -1068,7 +1068,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 57",
-      "ingested_at": "2026-04-06T17:51:12.158000"
+      "ingested_at": "2026-04-06T19:19:26.684000"
     }
   },
   {
@@ -1087,7 +1087,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 58",
-      "ingested_at": "2026-04-06T17:51:12.158000"
+      "ingested_at": "2026-04-06T19:19:26.693000"
     }
   },
   {
@@ -1106,7 +1106,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 59",
-      "ingested_at": "2026-04-06T17:51:12.159000"
+      "ingested_at": "2026-04-06T19:19:26.695000"
     }
   },
   {
@@ -1125,7 +1125,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 60",
-      "ingested_at": "2026-04-06T17:51:12.160000"
+      "ingested_at": "2026-04-06T19:19:26.697000"
     }
   },
   {
@@ -1144,7 +1144,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 61",
-      "ingested_at": "2026-04-06T17:51:12.160000"
+      "ingested_at": "2026-04-06T19:19:26.698000"
     }
   },
   {
@@ -1163,7 +1163,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 62",
-      "ingested_at": "2026-04-06T17:51:12.161000"
+      "ingested_at": "2026-04-06T19:19:26.700000"
     }
   },
   {
@@ -1182,7 +1182,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 63",
-      "ingested_at": "2026-04-06T17:51:12.162000"
+      "ingested_at": "2026-04-06T19:19:26.709000"
     }
   },
   {
@@ -1201,7 +1201,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 64",
-      "ingested_at": "2026-04-06T17:51:12.162000"
+      "ingested_at": "2026-04-06T19:19:26.712000"
     }
   },
   {
@@ -1220,7 +1220,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 65",
-      "ingested_at": "2026-04-06T17:51:12.163000"
+      "ingested_at": "2026-04-06T19:19:26.713000"
     }
   },
   {
@@ -1239,7 +1239,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 66",
-      "ingested_at": "2026-04-06T17:51:12.164000"
+      "ingested_at": "2026-04-06T19:19:26.715000"
     }
   },
   {
@@ -1258,7 +1258,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 67",
-      "ingested_at": "2026-04-06T17:51:12.164000"
+      "ingested_at": "2026-04-06T19:19:26.716000"
     }
   },
   {
@@ -1276,7 +1276,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 68",
-      "ingested_at": "2026-04-06T17:51:12.165000"
+      "ingested_at": "2026-04-06T19:19:26.725000"
     }
   },
   {
@@ -1295,7 +1295,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 69",
-      "ingested_at": "2026-04-06T17:51:12.166000"
+      "ingested_at": "2026-04-06T19:19:26.727000"
     }
   },
   {
@@ -1314,7 +1314,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 70",
-      "ingested_at": "2026-04-06T17:51:12.166000"
+      "ingested_at": "2026-04-06T19:19:26.730000"
     }
   },
   {
@@ -1333,7 +1333,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 71",
-      "ingested_at": "2026-04-06T17:51:12.167000"
+      "ingested_at": "2026-04-06T19:19:26.732000"
     }
   },
   {
@@ -1352,7 +1352,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 72",
-      "ingested_at": "2026-04-06T17:51:12.168000"
+      "ingested_at": "2026-04-06T19:19:26.741000"
     }
   },
   {
@@ -1371,7 +1371,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 73",
-      "ingested_at": "2026-04-06T17:51:12.169000"
+      "ingested_at": "2026-04-06T19:19:26.743000"
     }
   },
   {
@@ -1390,7 +1390,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 74",
-      "ingested_at": "2026-04-06T17:51:12.169000"
+      "ingested_at": "2026-04-06T19:19:26.745000"
     }
   },
   {
@@ -1409,7 +1409,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 75",
-      "ingested_at": "2026-04-06T17:51:12.170000"
+      "ingested_at": "2026-04-06T19:19:26.747000"
     }
   },
   {
@@ -1427,7 +1427,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 76",
-      "ingested_at": "2026-04-06T17:51:12.171000"
+      "ingested_at": "2026-04-06T19:19:26.749000"
     }
   },
   {
@@ -1446,7 +1446,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 77",
-      "ingested_at": "2026-04-06T17:51:12.171000"
+      "ingested_at": "2026-04-06T19:19:26.752000"
     }
   },
   {
@@ -1464,7 +1464,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 78",
-      "ingested_at": "2026-04-06T17:51:12.172000"
+      "ingested_at": "2026-04-06T19:19:26.754000"
     }
   },
   {
@@ -1483,7 +1483,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 79",
-      "ingested_at": "2026-04-06T17:51:12.173000"
+      "ingested_at": "2026-04-06T19:19:26.756000"
     }
   },
   {
@@ -1502,7 +1502,7 @@
     "email_valid": true,
     "data_quality": {
       "notes": "Row 80",
-      "ingested_at": "2026-04-06T17:51:12.173000"
+      "ingested_at": "2026-04-06T19:19:26.765000"
     }
   }
 ]
