@@ -80,7 +80,7 @@ COLLECTION_NAME=companies
 USE_MONGOMOCK=true
 ```
 
-The checked-in `.gitignore` excludes `.env`, `venv/`, and `node_modules/` so the repo can be kept public safely.
+The checked-in `.gitignore` excludes `.env`, `.venv/`, `venv/`, `node_modules/`, and local-only planning/source artifacts so the repo can be kept public safely.
 
 ## Setup
 
@@ -173,9 +173,6 @@ Use `VIDEO_SCRIPT.md` as the talk track for the 6 to 8 minute submission video.
 
 ## Publishing Status
 
-The repo is prepared for a public push, but this machine currently has:
+The repository is published publicly at:
 
-- no configured Git remote
-- no installed `gh` CLI
-
-So the code is ready to publish, but the actual remote push must be done after a remote is configured or GitHub CLI is installed and authenticated.
+https://github.com/Mohammad-Ghouse-virtuoso/filesure-assign
