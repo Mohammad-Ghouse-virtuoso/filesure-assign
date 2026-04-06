@@ -1,0 +1,81 @@
+cin,company_name,status,incorporation_date,state,director_1,director_2,paid_up_capital,last_filing_date,email
+U74999KA2011PTC246316,Bharat Finance Pvt Ltd,Strike Off,01-01-2014,Karnataka,Manoj Hegde,Seema Nair,"₹50,000,000",,support@bharat.com
+U74999MP2020PTC944962,Smart Logistics Pvt Ltd,Active ,03/07/2012,Madhya Pradesh,Girish Patel,Harish Kulkarni,"1,000,000",04-02-2023,accounts@smart.com
+U74999RJ2018PTC748564,National Infosystems Pvt Ltd,under liquidation,03-12-2011,Rajasthan,Manoj Das,,"100,000",,info@national.com
+U74999TS2018PTC379946,Tech Consulting Pvt Ltd,Strike Off,18-03-2018,Telangana,Usha Dubey,Seema Reddy,50000000,15-07-2022,info@yahoo.com
+,Vertex Enterprises Pvt Ltd,Under liquidation,11/16/2011,Telangana,Rajesh Reddy,Nitin Iyer,"₹50,000,000",05-05-2024,support@vertex.com
+U74999TN2008PTC214975,Zenith Systems Pvt Ltd,active,13-02-2017,Tamil Nadu,Seema Srivastava,Sunita Banerjee,"10,000,000",17-05-2024,accounts@outlook.com..
+U74999TN2022PTC854639,Nexus Solutions Pvt Ltd,active,28-02-2022,Tamil Nadu,Deepak Naik,Madhuri Dubey,"₹100,000",05-06-2022,@@gmail.com
+U74999GJ2017PTC182582,Digital Solutions Pvt Ltd,Active ,25-09-2020,Gujarat,Kiran Naik,,"10,000,000",,hello@yahoo.com
+U74999DL2018PTC781446,United Enterprises Pvt Ltd,Active ,03-04-2011,Delhi,Ramesh Singh,Anita Reddy,Rs. 100000,19-04-2022,admin@gmail.com
+U74999GJ2010PTC858490,Allied Systems Pvt Ltd,DORMANT,26-04-2015,Gujarat,Anil Banerjee,Jyoti Rao,"5,000,000",07-02-2024,info@company.co.in
+U74999KA2020PTC214576,India Analytics Pvt Ltd,active,14-03-2015,Karnataka,Mohan Tiwari,Seema Patel,"₹100,000",08-02-2024,support@gmail.com
+U74999DL2011PTC520521,Tech Analytics Pvt Ltd,Under Liquidation,09-07-2008,Delhi,Seema Banerjee,Meena Nair,1000000,10-07-2024,info@tech.in
+,Metro Consulting Pvt Ltd,active,28-02-2016,Maharashtra,Vandana Patel,Rohit Reddy,"₹10,000,000",22-04-2021,support@gmail.com
+U74999MP2012PTC314181,Venture Infosystems Pvt Ltd,STRIKE OFF,2012/07/05,Madhya Pradesh,Vijay Sharma,Rohit Patel,100000,15-06-2023,support@outlook.com
+U74999TS2013PTC398830,Meridian Technologies Pvt Ltd,ACTIVE,17-11-2020,Telangana,Seema Gupta,Anil Yadav,500000,,info@company.co.in
+U74999GJ2013PTC313487,Apex Innovations Pvt Ltd,STRIKE OFF,28-05-2015,Gujarat,Jyoti Pandey,,100000,,contact@company.co.in
+U74999TN2014PTC688153,Metro Systems Pvt Ltd,Active,2016/01/27,Tamil Nadu,Suresh Gupta,Suresh Yadav,1000000,14-03-2022,contact @ company.co.in
+U74999RJ2022PTC348237,Capital Finance Pvt Ltd,Under Liquidation,24-03-2008,Rajasthan,Lalitha Iyer,,50000000,26-11-2024,info@capital.com
+U74999WB2021PTC338651,Horizon Enterprises Pvt Ltd,active,28-05-2013,West Bengal,Usha Verma,Vandana Banerjee,10000000,,info@gmail.com
+U74999GJ2012PTC140115,Tech Innovations Pvt Ltd,Active ,06/14/2019,Gujarat,Sanjay Iyer,,5000000,13-10-2021,support@company.co.in
+,Horizon Analytics Pvt Ltd,STRIKE OFF,28-11-2013,Delhi,Geeta Hegde,Dinesh Shah,"₹5,000,000",,support@yahoo.com
+U74999RJ2017PTC696750,Allied Finance Pvt Ltd,Active,04/14/2012,Rajasthan,Mohan Banerjee,,"5,000,000",15-08-2023,accounts@yahoo.com
+U74999GJ2013PTC197923,Zenith Infrastructure Pvt Ltd,strike off,04/05/2011,Gujarat,Lalitha Bhat,Vijay Pillai,Rs. 5000000,,support@yahoo.com
+U74999RJ2018PTC821024,Orbit Analytics Pvt Ltd,Active,26-03-2011,Rajasthan,Lalitha Dubey,Renu Mehta,"₹5,000,000",02-09-2024,support@orbit.in
+U74999WB2016PTC547470,Capital Realty Pvt Ltd,Under liquidation,24-03-2022,West Bengal,Usha Das,Shobha Agarwal,500000,09-04-2024,info@company.co.in
+U74999GJ2009PTC245095,Pioneer Consulting Pvt Ltd,Active ,2019/04/03,Gujarat,Dinesh Kumar,,5000000,18-08-2023,support @ company.co.in
+U74999RJ2012PTC890075,Orbit Solutions Pvt Ltd,Active ,18-12-2019,Rajasthan,Usha Rao,Girish Shah,"₹50,000,000",16-04-2022,hello@company.co.in
+U74999WB2016PTC128276,Paradigm Services Pvt Ltd,Under liquidation,03-01-2018,West Bengal,Pooja Kumar,,1000000,28-08-2022,admin@outlook.com
+U74999RJ2014PTC364525,Smart Logistics Pvt Ltd,under liquidation,02-09-2019,Rajasthan,Vijay Das,Suresh Das,Rs. 100000,08-11-2023,contact@gmail.com
+U74999DL2017PTC328552,Prime Systems Pvt Ltd,ACTIVE,10/20/2010,Delhi,Geeta Patel,Geeta Desai,Rs. 50000000,25-03-2021,hello@prime.com
+U74999DL2018PTC354646,National Innovations Pvt Ltd,ACTIVE,26-02-2020,Delhi,Jyoti Banerjee,Arvind Agarwal,1000000,12-09-2021,@@national.com
+U74999WB2019PTC647091,United Services Pvt Ltd,dormant,25-09-2020,West Bengal,Archana Iyer,Lalitha Pandey,100000,27-12-2024,hello@yahoo.com
+U74999MP2008PTC618317,Capital Infrastructure Pvt Ltd,Under Liquidation,26-06-2011,Madhya Pradesh,Usha Naik,,500000,20-12-2023,accounts@capital.com
+U74999DL2015PTC569945,United Systems Pvt Ltd,Strike Off,07/23/2011,Delhi,Madhuri Verma,Seema Shah,"₹1,000,000",16-09-2023,admin@outlook.com
+U74999KA2019PTC661894,Metro Ventures Pvt Ltd,DORMANT,2011/04/24,Karnataka,Ashok Reddy,Geeta Sharma,50000000,04-04-2023,admin@gmail.com
+U74999UP2018PTC889359,Apex Finance Pvt Ltd,Active,16-08-2012,Uttar Pradesh,Kiran Patel,Vandana Bhat,"₹100,000",02-05-2022,accounts@gmail.com
+U74999MP2009PTC685181,Apex Technologies Pvt Ltd,strike off,15-08-2014,Madhya Pradesh,Manisha Kumar,Anil Das,"₹500,000",10-10-2024,admin@company.co.in
+U74999TN2014PTC572387,Catalyst Technologies Pvt Ltd,Struck Off,04/10/2008,Tamil Nadu,Manoj Dubey,,"₹50,000,000",03-11-2024,contact@catalyst
+U74999TN2009PTC162535,Paradigm Enterprises Pvt Ltd,ACTIVE,10-10-2019,Tamil Nadu,Vandana Iyer,Shobha Pillai,"₹100,000",23-05-2024,hello@company.co.in
+U74999GJ2018PTC976566,Bharat Technologies Pvt Ltd,Under liquidation,27-11-2020,Gujarat,Kiran Hegde,Usha Joshi,10000000,25-03-2021,hello@gmail.com
+U74999RJ2021PTC268637,Pioneer Consulting Pvt Ltd,Active ,07/27/2018,Rajasthan,Vivek Iyer,Vandana Srivastava,"10,000,000",15-02-2021,info@company.co.in
+U74999WB2013PTC752878,Synergy Solutions Pvt Ltd,Struck Off,18-05-2011,West Bengal,Ashok Pillai,Shobha Patel,Rs. 100000,,support@yahoo.com
+U74999GJ2009PTC335615,Catalyst Solutions Pvt Ltd,Dormant,27-11-2009,Gujarat,Usha Rao,Kiran Reddy,"₹5,000,000",17-12-2023,hello@yahoo.com
+U74999UP2009PTC389666,Metro Advisors Pvt Ltd,Struck Off,09/09/2022,Uttar Pradesh,Archana Desai,Shobha Srivastava,500000,24-05-2023,hello@outlook.com
+U74999UP2021PTC297816,Vertex Systems Pvt Ltd,Dormant,28-04-2014,Uttar Pradesh,Kiran Chatterjee,Girish Mishra,"50,000,000",11-12-2021,accounts@yahoo.com
+U74999MH2013PTC205239,Prime Infosystems Pvt Ltd,under liquidation,01-08-2016,Maharashtra,Meena Singh,Prakash Shah,"₹10,000,000",28-11-2024,accounts@gmail.com
+U74999UP2022PTC896290,Vertex Consulting Pvt Ltd,Active,21-04-2009,Uttar Pradesh,Kavita Rao,Anil Pillai,"₹500,000",08-12-2023,info@gmail.com
+U74999MH2010PTC356059,Apex Consulting Pvt Ltd,active,2010/02/20,Maharashtra,Meena Reddy,Prakash Pillai,"₹1,000,000",16-10-2022,hello@outlook.com
+U74999TN2017PTC413685,National Systems Pvt Ltd,Struck Off,05/07/2015,Tamil Nadu,Girish Desai,Ashok Chatterjee,1000000,04-04-2024,accounts@national.com
+U74999MP2008PTC735863,Centurion Infrastructure Pvt Ltd,STRIKE OFF,2017/06/08,Madhya Pradesh,Rajesh Agarwal,,"₹50,000,000",22-12-2023,@@centurion.com
+U74999TN2019PTC535686,National Advisors Pvt Ltd,active,17-06-2022,Tamil Nadu,Prakash Dubey,Kiran Tiwari,"₹1,000,000",27-03-2023,admin@gmail.com
+U74999KA2021PTC809176,Prime Logistics Pvt Ltd,Struck Off,26-02-2013,Karnataka,Renu Verma,Prakash Desai,"5,000,000",18-02-2023,admin@gmail.com
+U74999WB2016PTC443939,Bharat Innovations Pvt Ltd,Under Liquidation,23-08-2018,West Bengal,Suresh Kumar,Shobha Patel,100000,04-03-2024,support@yahoo.com
+U74999TS2016PTC539486,Allied Finance Pvt Ltd,active,27-02-2018,Telangana,Smita Nair,Lalitha Srivastava,1000000,09-01-2024,accounts@outlook.com
+U74999TS2009PTC989227,India Analytics Pvt Ltd,Under Liquidation,2018/11/20,Telangana,Lalitha Mehta,Rekha Singh,10000000,26-06-2021,contact@yahoo.com
+U74999TN2012PTC251716,Insight Advisors Pvt Ltd,DORMANT,03/04/2020,Tamil Nadu,Harish Tiwari,Archana Shah,100000,05-01-2021,info@yahoo.com
+,Global Finance Pvt Ltd,ACTIVE,15-02-2017,Uttar Pradesh,Madhuri Gupta,Priya Kumar,"5,000,000",24-11-2021,hello@company.co.in..
+U74999KA2010PTC168872,Meridian Technologies Pvt Ltd,ACTIVE,10-09-2017,Karnataka,Sunita Srivastava,Seema Mukherjee,500000,04-12-2024,contact@meridian.com
+U74999WB2013PTC547494,Vertex Analytics Pvt Ltd,ACTIVE,11/16/2010,West Bengal,Kavita Singh,Smita Tiwari,"₹500,000",,support@vertex.in
+U74999KA2020PTC543481,Synergy Consulting Pvt Ltd,Under liquidation,10-10-2012,Karnataka,Kiran Reddy,Harish Srivastava,10000000,05-11-2022,admin@synergy.in
+U74999RJ2021PTC751924,Centurion Infosystems Pvt Ltd,Strike Off,27-11-2022,Rajasthan,Geeta Dubey,Ramesh Joshi,"₹500,000",06-05-2021,hello@gmail.com
+U74999MH2014PTC540226,National Finance Pvt Ltd,active,12/11/2012,Maharashtra,Deepak Das,Kavita Iyer,"₹5,000,000",02-03-2021,hello@national.in
+U74999GJ2013PTC550797,Fintech Logistics Pvt Ltd,Active ,02-05-2018,Gujarat,Geeta Nair,Prakash Gupta,1000000,01-04-2021,hello@company.co.in
+U74999TN2016PTC685864,Vertex Infosystems Pvt Ltd,under liquidation,02-12-2014,Tamil Nadu,Rohit Rao,Dinesh Gupta,100000,03-06-2024,admin@yahoo.com
+U74999MP2013PTC192410,Nexus Realty Pvt Ltd,Active,2014/10/13,Madhya Pradesh,Nandini Reddy,Deepak Singh,"₹10,000,000",28-05-2024,support@nexus.in
+U74999TS2018PTC954628,Horizon Finance Pvt Ltd,Active,2012/04/06,Telangana,Shobha Pillai,Archana Pillai,Rs. 50000000,06-11-2021,support@company.co.in
+U74999MP2013PTC258290,Pioneer Realty Pvt Ltd,Active ,26-05-2018,Madhya Pradesh,Vijay Gupta,Suresh Kumar,"1,000,000",12-09-2021,info@company.co.in
+U74999KA2015PTC708519,Capital Innovations Pvt Ltd,Active,21-10-2022,Karnataka,Anita Pillai,,Rs. 1000000,17-03-2024,info@capital.in
+U74999MH2015PTC649525,Digital Finance Pvt Ltd,active,05/13/2013,Maharashtra,Anita Tiwari,Nandini Singh,1000000,22-10-2023,accounts@digital.com
+U74999MP2017PTC795847,Centurion Services Pvt Ltd,ACTIVE,12/22/2018,Madhya Pradesh,Girish Agarwal,Rajesh Banerjee,"50,000,000",10-09-2021,accounts@company.co.in
+U74999KA2013PTC119116,Infra Infrastructure Pvt Ltd,active,2013/08/07,Karnataka,Ashok Srivastava,Arvind Das,"10,000,000",05-02-2022,support@gmail.com
+U74999MP2010PTC289630,Prime Innovations Pvt Ltd,Under liquidation,2019/08/02,Madhya Pradesh,Ashok Das,Mohan Reddy,10000000,15-10-2022,hello@yahoo.com
+U74999MP2020PTC500422,Nexus Systems Pvt Ltd,Active ,2021/04/26,Madhya Pradesh,Kiran Srivastava,Anil Chatterjee,"10,000,000",02-11-2023,admin@gmail.com
+U74999GJ2021PTC558723,Nexus Advisors Pvt Ltd,active,01-06-2022,Gujarat,Lalitha Mishra,Smita Reddy,100000,17-06-2024,info@company.co.in
+U74999TN2021PTC595404,Prime Solutions Pvt Ltd,strike off,01-10-2015,Tamil Nadu,Meena Naik,Santosh Hegde,5000000,09-04-2021,admin@yahoo.com
+U74999MH2017PTC579318,Digital Analytics Pvt Ltd,Active ,21-01-2016,Maharashtra,Ashok Rao,,1000000,23-03-2022,hello@yahoo.com
+,Zenith Consulting Pvt Ltd,Active,02-08-2021,Karnataka,Priya Verma,Harish Reddy,"₹50,000,000",09-12-2023,info@zenith.in
+U74999TS2013PTC953025,Prime Solutions Pvt Ltd,Struck Off,26-03-2018,Telangana,Renu Kumar,,"100,000",,info@outlook.com
+U74999UP2012PTC138399,Vertex Realty Pvt Ltd,strike off,01/28/2013,Uttar Pradesh,Jyoti Yadav,Mohan Yadav,5000000,04-06-2023,contact@vertex.com
+U74999TS2020PTC186624,Paradigm Logistics Pvt Ltd,Strike Off,18-03-2017,Telangana,Ashok Gupta,Jyoti Joshi,50000000,03-06-2021,hello@gmail.com

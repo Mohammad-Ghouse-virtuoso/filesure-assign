@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FileSure - Company Records</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <h1>FileSure - Company Records Dashboard</h1>
+      <p>Technical Operations & Support Internship Assignment</p>
+    </header>
+
+    <!-- Stats Section -->
+    <section class="stats-section">
+      <h2>Quick Stats</h2>
+      <div id="statsContainer" class="stats-grid">
+        <div class="stat-card loading">Loading statistics...</div>
+      </div>
+    </section>
+
+    <!-- Filters Section -->
+    <section class="filters-section">
+      <h2>Filters</h2>
+      <div class="filter-controls">
+        <div class="filter-group">
+          <label for="statusFilter">Status:</label>
+          <select id="statusFilter">
+            <option value="">All Status</option>
+            <option value="active">Active</option>
+            <option value="strike_off">Strike Off</option>
+            <option value="under_liquidation">Under Liquidation</option>
+            <option value="dormant">Dormant</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label for="stateFilter">State:</label>
+          <select id="stateFilter">
+            <option value="">All States</option>
+          </select>
+        </div>
+
+        <button id="applyFiltersBtn" class="btn-primary">Apply Filters</button>
+        <button id="resetFiltersBtn" class="btn-secondary">Reset</button>
+      </div>
+    </section>
+
+    <!-- Companies Table Section -->
+    <section class="companies-section">
+      <h2>Companies</h2>
+      
+      <div id="loadingIndicator" class="loading-indicator hidden">
+        <span class="spinner"></span> Loading companies...
+      </div>
+
+      <div id="errorMessage" class="error-message hidden"></div>
+
+      <table id="companiesTable" class="companies-table">
+        <thead>
+          <tr>
+            <th>CIN</th>
+            <th>Company Name</th>
+            <th>Status</th>
+            <th>State</th>
+            <th>Incorporation Date</th>
+            <th>Email</th>
+            <th>Valid</th>
+          </tr>
+        </thead>
+        <tbody id="companiesBody">
+          <tr class="no-data">
+            <td colspan="7">No companies found</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <!-- Pagination Controls -->
+      <div class="pagination-controls">
+        <button id="prevPageBtn" class="btn-secondary" disabled>← Previous</button>
+        <span id="pageInfo" class="page-info">Page 1</span>
+        <button id="nextPageBtn" class="btn-secondary">Next →</button>
+      </div>
+    </section>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+node_modules/
+venv/
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.log
+IMPLEMENTATION_LOG.md
+PROJECT_PLAN.md
+company_records.xlsx
+filesure_intern_assignment_1.pdf

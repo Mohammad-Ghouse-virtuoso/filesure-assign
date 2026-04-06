@@ -1,0 +1,1508 @@
+[
+  {
+    "cin": "U74999KA2011PTC246316",
+    "company_name": "Bharat Finance Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2014-01-01T00:00:00",
+    "state": "Karnataka",
+    "directors": [
+      "Manoj Hegde",
+      "Seema Nair"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": null,
+    "email": "support@bharat.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 1",
+      "ingested_at": "2026-04-06T17:51:12.117000"
+    }
+  },
+  {
+    "cin": "U74999MP2020PTC944962",
+    "company_name": "Smart Logistics Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2012-07-03T00:00:00",
+    "state": "Madhya Pradesh",
+    "directors": [
+      "Girish Patel",
+      "Harish Kulkarni"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2023-02-04T00:00:00",
+    "email": "accounts@smart.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 2",
+      "ingested_at": "2026-04-06T17:51:12.118000"
+    }
+  },
+  {
+    "cin": "U74999RJ2018PTC748564",
+    "company_name": "National Infosystems Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2011-12-03T00:00:00",
+    "state": "Rajasthan",
+    "directors": [
+      "Manoj Das"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": null,
+    "email": "info@national.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 3",
+      "ingested_at": "2026-04-06T17:51:12.119000"
+    }
+  },
+  {
+    "cin": "U74999TS2018PTC379946",
+    "company_name": "Tech Consulting Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2018-03-18T00:00:00",
+    "state": "Telangana",
+    "directors": [
+      "Usha Dubey",
+      "Seema Reddy"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2022-07-15T00:00:00",
+    "email": "info@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 4",
+      "ingested_at": "2026-04-06T17:51:12.119000"
+    }
+  },
+  {
+    "cin": null,
+    "company_name": "Vertex Enterprises Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2011-11-16T00:00:00",
+    "state": "Telangana",
+    "directors": [
+      "Rajesh Reddy",
+      "Nitin Iyer"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2024-05-05T00:00:00",
+    "email": "support@vertex.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 5",
+      "ingested_at": "2026-04-06T17:51:12.120000"
+    }
+  },
+  {
+    "cin": "U74999TN2008PTC214975",
+    "company_name": "Zenith Systems Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2017-02-13T00:00:00",
+    "state": "Tamil Nadu",
+    "directors": [
+      "Seema Srivastava",
+      "Sunita Banerjee"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": "2024-05-17T00:00:00",
+    "email": "accounts@outlook.com..",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 6",
+      "ingested_at": "2026-04-06T17:51:12.120000"
+    }
+  },
+  {
+    "cin": "U74999TN2022PTC854639",
+    "company_name": "Nexus Solutions Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2022-02-28T00:00:00",
+    "state": "Tamil Nadu",
+    "directors": [
+      "Deepak Naik",
+      "Madhuri Dubey"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": "2022-06-05T00:00:00",
+    "email": "@@gmail.com",
+    "email_valid": false,
+    "data_quality": {
+      "notes": "Row 7",
+      "ingested_at": "2026-04-06T17:51:12.121000"
+    }
+  },
+  {
+    "cin": "U74999GJ2017PTC182582",
+    "company_name": "Digital Solutions Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2020-09-25T00:00:00",
+    "state": "Gujarat",
+    "directors": [
+      "Kiran Naik"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": null,
+    "email": "hello@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 8",
+      "ingested_at": "2026-04-06T17:51:12.122000"
+    }
+  },
+  {
+    "cin": "U74999DL2018PTC781446",
+    "company_name": "United Enterprises Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2011-04-03T00:00:00",
+    "state": "Delhi",
+    "directors": [
+      "Ramesh Singh",
+      "Anita Reddy"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": "2022-04-19T00:00:00",
+    "email": "admin@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 9",
+      "ingested_at": "2026-04-06T17:51:12.123000"
+    }
+  },
+  {
+    "cin": "U74999GJ2010PTC858490",
+    "company_name": "Allied Systems Pvt Ltd",
+    "status": "dormant",
+    "incorporation_date": "2015-04-26T00:00:00",
+    "state": "Gujarat",
+    "directors": [
+      "Anil Banerjee",
+      "Jyoti Rao"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": "2024-02-07T00:00:00",
+    "email": "info@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 10",
+      "ingested_at": "2026-04-06T17:51:12.124000"
+    }
+  },
+  {
+    "cin": "U74999KA2020PTC214576",
+    "company_name": "India Analytics Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2015-03-14T00:00:00",
+    "state": "Karnataka",
+    "directors": [
+      "Mohan Tiwari",
+      "Seema Patel"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": "2024-02-08T00:00:00",
+    "email": "support@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 11",
+      "ingested_at": "2026-04-06T17:51:12.124000"
+    }
+  },
+  {
+    "cin": "U74999DL2011PTC520521",
+    "company_name": "Tech Analytics Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2008-07-09T00:00:00",
+    "state": "Delhi",
+    "directors": [
+      "Seema Banerjee",
+      "Meena Nair"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2024-07-10T00:00:00",
+    "email": "info@tech.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 12",
+      "ingested_at": "2026-04-06T17:51:12.125000"
+    }
+  },
+  {
+    "cin": null,
+    "company_name": "Metro Consulting Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2016-02-28T00:00:00",
+    "state": "Maharashtra",
+    "directors": [
+      "Vandana Patel",
+      "Rohit Reddy"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": "2021-04-22T00:00:00",
+    "email": "support@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 13",
+      "ingested_at": "2026-04-06T17:51:12.125000"
+    }
+  },
+  {
+    "cin": "U74999MP2012PTC314181",
+    "company_name": "Venture Infosystems Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2012-05-07T00:00:00",
+    "state": "Madhya Pradesh",
+    "directors": [
+      "Vijay Sharma",
+      "Rohit Patel"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": "2023-06-15T00:00:00",
+    "email": "support@outlook.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 14",
+      "ingested_at": "2026-04-06T17:51:12.126000"
+    }
+  },
+  {
+    "cin": "U74999TS2013PTC398830",
+    "company_name": "Meridian Technologies Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2020-11-17T00:00:00",
+    "state": "Telangana",
+    "directors": [
+      "Seema Gupta",
+      "Anil Yadav"
+    ],
+    "paid_up_capital": 500000.0,
+    "last_filing_date": null,
+    "email": "info@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 15",
+      "ingested_at": "2026-04-06T17:51:12.126000"
+    }
+  },
+  {
+    "cin": "U74999GJ2013PTC313487",
+    "company_name": "Apex Innovations Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2015-05-28T00:00:00",
+    "state": "Gujarat",
+    "directors": [
+      "Jyoti Pandey"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": null,
+    "email": "contact@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 16",
+      "ingested_at": "2026-04-06T17:51:12.127000"
+    }
+  },
+  {
+    "cin": "U74999TN2014PTC688153",
+    "company_name": "Metro Systems Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2016-01-27T00:00:00",
+    "state": "Tamil Nadu",
+    "directors": [
+      "Suresh Gupta",
+      "Suresh Yadav"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2022-03-14T00:00:00",
+    "email": "contact @ company.co.in",
+    "email_valid": false,
+    "data_quality": {
+      "notes": "Row 17",
+      "ingested_at": "2026-04-06T17:51:12.127000"
+    }
+  },
+  {
+    "cin": "U74999RJ2022PTC348237",
+    "company_name": "Capital Finance Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2008-03-24T00:00:00",
+    "state": "Rajasthan",
+    "directors": [
+      "Lalitha Iyer"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2024-11-26T00:00:00",
+    "email": "info@capital.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 18",
+      "ingested_at": "2026-04-06T17:51:12.128000"
+    }
+  },
+  {
+    "cin": "U74999WB2021PTC338651",
+    "company_name": "Horizon Enterprises Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2013-05-28T00:00:00",
+    "state": "West Bengal",
+    "directors": [
+      "Usha Verma",
+      "Vandana Banerjee"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": null,
+    "email": "info@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 19",
+      "ingested_at": "2026-04-06T17:51:12.129000"
+    }
+  },
+  {
+    "cin": "U74999GJ2012PTC140115",
+    "company_name": "Tech Innovations Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2019-06-14T00:00:00",
+    "state": "Gujarat",
+    "directors": [
+      "Sanjay Iyer"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": "2021-10-13T00:00:00",
+    "email": "support@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 20",
+      "ingested_at": "2026-04-06T17:51:12.129000"
+    }
+  },
+  {
+    "cin": null,
+    "company_name": "Horizon Analytics Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2013-11-28T00:00:00",
+    "state": "Delhi",
+    "directors": [
+      "Geeta Hegde",
+      "Dinesh Shah"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": null,
+    "email": "support@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 21",
+      "ingested_at": "2026-04-06T17:51:12.130000"
+    }
+  },
+  {
+    "cin": "U74999RJ2017PTC696750",
+    "company_name": "Allied Finance Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2012-04-14T00:00:00",
+    "state": "Rajasthan",
+    "directors": [
+      "Mohan Banerjee"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": "2023-08-15T00:00:00",
+    "email": "accounts@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 22",
+      "ingested_at": "2026-04-06T17:51:12.130000"
+    }
+  },
+  {
+    "cin": "U74999GJ2013PTC197923",
+    "company_name": "Zenith Infrastructure Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2011-05-04T00:00:00",
+    "state": "Gujarat",
+    "directors": [
+      "Lalitha Bhat",
+      "Vijay Pillai"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": null,
+    "email": "support@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 23",
+      "ingested_at": "2026-04-06T17:51:12.130000"
+    }
+  },
+  {
+    "cin": "U74999RJ2018PTC821024",
+    "company_name": "Orbit Analytics Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2011-03-26T00:00:00",
+    "state": "Rajasthan",
+    "directors": [
+      "Lalitha Dubey",
+      "Renu Mehta"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": "2024-09-02T00:00:00",
+    "email": "support@orbit.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 24",
+      "ingested_at": "2026-04-06T17:51:12.131000"
+    }
+  },
+  {
+    "cin": "U74999WB2016PTC547470",
+    "company_name": "Capital Realty Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2022-03-24T00:00:00",
+    "state": "West Bengal",
+    "directors": [
+      "Usha Das",
+      "Shobha Agarwal"
+    ],
+    "paid_up_capital": 500000.0,
+    "last_filing_date": "2024-04-09T00:00:00",
+    "email": "info@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 25",
+      "ingested_at": "2026-04-06T17:51:12.131000"
+    }
+  },
+  {
+    "cin": "U74999GJ2009PTC245095",
+    "company_name": "Pioneer Consulting Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2019-03-04T00:00:00",
+    "state": "Gujarat",
+    "directors": [
+      "Dinesh Kumar"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": "2023-08-18T00:00:00",
+    "email": "support @ company.co.in",
+    "email_valid": false,
+    "data_quality": {
+      "notes": "Row 26",
+      "ingested_at": "2026-04-06T17:51:12.132000"
+    }
+  },
+  {
+    "cin": "U74999RJ2012PTC890075",
+    "company_name": "Orbit Solutions Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2019-12-18T00:00:00",
+    "state": "Rajasthan",
+    "directors": [
+      "Usha Rao",
+      "Girish Shah"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2022-04-16T00:00:00",
+    "email": "hello@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 27",
+      "ingested_at": "2026-04-06T17:51:12.132000"
+    }
+  },
+  {
+    "cin": "U74999WB2016PTC128276",
+    "company_name": "Paradigm Services Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2018-01-03T00:00:00",
+    "state": "West Bengal",
+    "directors": [
+      "Pooja Kumar"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2022-08-28T00:00:00",
+    "email": "admin@outlook.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 28",
+      "ingested_at": "2026-04-06T17:51:12.134000"
+    }
+  },
+  {
+    "cin": "U74999RJ2014PTC364525",
+    "company_name": "Smart Logistics Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2019-09-02T00:00:00",
+    "state": "Rajasthan",
+    "directors": [
+      "Vijay Das",
+      "Suresh Das"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": "2023-11-08T00:00:00",
+    "email": "contact@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 29",
+      "ingested_at": "2026-04-06T17:51:12.135000"
+    }
+  },
+  {
+    "cin": "U74999DL2017PTC328552",
+    "company_name": "Prime Systems Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2010-10-20T00:00:00",
+    "state": "Delhi",
+    "directors": [
+      "Geeta Patel",
+      "Geeta Desai"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2021-03-25T00:00:00",
+    "email": "hello@prime.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 30",
+      "ingested_at": "2026-04-06T17:51:12.136000"
+    }
+  },
+  {
+    "cin": "U74999DL2018PTC354646",
+    "company_name": "National Innovations Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2020-02-26T00:00:00",
+    "state": "Delhi",
+    "directors": [
+      "Jyoti Banerjee",
+      "Arvind Agarwal"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2021-09-12T00:00:00",
+    "email": "@@national.com",
+    "email_valid": false,
+    "data_quality": {
+      "notes": "Row 31",
+      "ingested_at": "2026-04-06T17:51:12.137000"
+    }
+  },
+  {
+    "cin": "U74999WB2019PTC647091",
+    "company_name": "United Services Pvt Ltd",
+    "status": "dormant",
+    "incorporation_date": "2020-09-25T00:00:00",
+    "state": "West Bengal",
+    "directors": [
+      "Archana Iyer",
+      "Lalitha Pandey"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": "2024-12-27T00:00:00",
+    "email": "hello@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 32",
+      "ingested_at": "2026-04-06T17:51:12.138000"
+    }
+  },
+  {
+    "cin": "U74999MP2008PTC618317",
+    "company_name": "Capital Infrastructure Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2011-06-26T00:00:00",
+    "state": "Madhya Pradesh",
+    "directors": [
+      "Usha Naik"
+    ],
+    "paid_up_capital": 500000.0,
+    "last_filing_date": "2023-12-20T00:00:00",
+    "email": "accounts@capital.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 33",
+      "ingested_at": "2026-04-06T17:51:12.139000"
+    }
+  },
+  {
+    "cin": "U74999DL2015PTC569945",
+    "company_name": "United Systems Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2011-07-23T00:00:00",
+    "state": "Delhi",
+    "directors": [
+      "Madhuri Verma",
+      "Seema Shah"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2023-09-16T00:00:00",
+    "email": "admin@outlook.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 34",
+      "ingested_at": "2026-04-06T17:51:12.140000"
+    }
+  },
+  {
+    "cin": "U74999KA2019PTC661894",
+    "company_name": "Metro Ventures Pvt Ltd",
+    "status": "dormant",
+    "incorporation_date": "2011-04-24T00:00:00",
+    "state": "Karnataka",
+    "directors": [
+      "Ashok Reddy",
+      "Geeta Sharma"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2023-04-04T00:00:00",
+    "email": "admin@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 35",
+      "ingested_at": "2026-04-06T17:51:12.140000"
+    }
+  },
+  {
+    "cin": "U74999UP2018PTC889359",
+    "company_name": "Apex Finance Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2012-08-16T00:00:00",
+    "state": "Uttar Pradesh",
+    "directors": [
+      "Kiran Patel",
+      "Vandana Bhat"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": "2022-05-02T00:00:00",
+    "email": "accounts@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 36",
+      "ingested_at": "2026-04-06T17:51:12.141000"
+    }
+  },
+  {
+    "cin": "U74999MP2009PTC685181",
+    "company_name": "Apex Technologies Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2014-08-15T00:00:00",
+    "state": "Madhya Pradesh",
+    "directors": [
+      "Manisha Kumar",
+      "Anil Das"
+    ],
+    "paid_up_capital": 500000.0,
+    "last_filing_date": "2024-10-10T00:00:00",
+    "email": "admin@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 37",
+      "ingested_at": "2026-04-06T17:51:12.142000"
+    }
+  },
+  {
+    "cin": "U74999TN2014PTC572387",
+    "company_name": "Catalyst Technologies Pvt Ltd",
+    "status": "unknown",
+    "incorporation_date": "2008-10-04T00:00:00",
+    "state": "Tamil Nadu",
+    "directors": [
+      "Manoj Dubey"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2024-11-03T00:00:00",
+    "email": "contact@catalyst",
+    "email_valid": false,
+    "data_quality": {
+      "notes": "Row 38",
+      "ingested_at": "2026-04-06T17:51:12.143000"
+    }
+  },
+  {
+    "cin": "U74999TN2009PTC162535",
+    "company_name": "Paradigm Enterprises Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2019-10-10T00:00:00",
+    "state": "Tamil Nadu",
+    "directors": [
+      "Vandana Iyer",
+      "Shobha Pillai"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": "2024-05-23T00:00:00",
+    "email": "hello@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 39",
+      "ingested_at": "2026-04-06T17:51:12.143000"
+    }
+  },
+  {
+    "cin": "U74999GJ2018PTC976566",
+    "company_name": "Bharat Technologies Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2020-11-27T00:00:00",
+    "state": "Gujarat",
+    "directors": [
+      "Kiran Hegde",
+      "Usha Joshi"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": "2021-03-25T00:00:00",
+    "email": "hello@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 40",
+      "ingested_at": "2026-04-06T17:51:12.144000"
+    }
+  },
+  {
+    "cin": "U74999RJ2021PTC268637",
+    "company_name": "Pioneer Consulting Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2018-07-27T00:00:00",
+    "state": "Rajasthan",
+    "directors": [
+      "Vivek Iyer",
+      "Vandana Srivastava"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": "2021-02-15T00:00:00",
+    "email": "info@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 41",
+      "ingested_at": "2026-04-06T17:51:12.145000"
+    }
+  },
+  {
+    "cin": "U74999WB2013PTC752878",
+    "company_name": "Synergy Solutions Pvt Ltd",
+    "status": "unknown",
+    "incorporation_date": "2011-05-18T00:00:00",
+    "state": "West Bengal",
+    "directors": [
+      "Ashok Pillai",
+      "Shobha Patel"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": null,
+    "email": "support@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 42",
+      "ingested_at": "2026-04-06T17:51:12.146000"
+    }
+  },
+  {
+    "cin": "U74999GJ2009PTC335615",
+    "company_name": "Catalyst Solutions Pvt Ltd",
+    "status": "dormant",
+    "incorporation_date": "2009-11-27T00:00:00",
+    "state": "Gujarat",
+    "directors": [
+      "Usha Rao",
+      "Kiran Reddy"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": "2023-12-17T00:00:00",
+    "email": "hello@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 43",
+      "ingested_at": "2026-04-06T17:51:12.147000"
+    }
+  },
+  {
+    "cin": "U74999UP2009PTC389666",
+    "company_name": "Metro Advisors Pvt Ltd",
+    "status": "unknown",
+    "incorporation_date": "2022-09-09T00:00:00",
+    "state": "Uttar Pradesh",
+    "directors": [
+      "Archana Desai",
+      "Shobha Srivastava"
+    ],
+    "paid_up_capital": 500000.0,
+    "last_filing_date": "2023-05-24T00:00:00",
+    "email": "hello@outlook.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 44",
+      "ingested_at": "2026-04-06T17:51:12.148000"
+    }
+  },
+  {
+    "cin": "U74999UP2021PTC297816",
+    "company_name": "Vertex Systems Pvt Ltd",
+    "status": "dormant",
+    "incorporation_date": "2014-04-28T00:00:00",
+    "state": "Uttar Pradesh",
+    "directors": [
+      "Kiran Chatterjee",
+      "Girish Mishra"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2021-12-11T00:00:00",
+    "email": "accounts@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 45",
+      "ingested_at": "2026-04-06T17:51:12.148000"
+    }
+  },
+  {
+    "cin": "U74999MH2013PTC205239",
+    "company_name": "Prime Infosystems Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2016-08-01T00:00:00",
+    "state": "Maharashtra",
+    "directors": [
+      "Meena Singh",
+      "Prakash Shah"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": "2024-11-28T00:00:00",
+    "email": "accounts@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 46",
+      "ingested_at": "2026-04-06T17:51:12.149000"
+    }
+  },
+  {
+    "cin": "U74999UP2022PTC896290",
+    "company_name": "Vertex Consulting Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2009-04-21T00:00:00",
+    "state": "Uttar Pradesh",
+    "directors": [
+      "Kavita Rao",
+      "Anil Pillai"
+    ],
+    "paid_up_capital": 500000.0,
+    "last_filing_date": "2023-12-08T00:00:00",
+    "email": "info@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 47",
+      "ingested_at": "2026-04-06T17:51:12.150000"
+    }
+  },
+  {
+    "cin": "U74999MH2010PTC356059",
+    "company_name": "Apex Consulting Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2010-02-20T00:00:00",
+    "state": "Maharashtra",
+    "directors": [
+      "Meena Reddy",
+      "Prakash Pillai"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2022-10-16T00:00:00",
+    "email": "hello@outlook.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 48",
+      "ingested_at": "2026-04-06T17:51:12.150000"
+    }
+  },
+  {
+    "cin": "U74999TN2017PTC413685",
+    "company_name": "National Systems Pvt Ltd",
+    "status": "unknown",
+    "incorporation_date": "2015-07-05T00:00:00",
+    "state": "Tamil Nadu",
+    "directors": [
+      "Girish Desai",
+      "Ashok Chatterjee"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2024-04-04T00:00:00",
+    "email": "accounts@national.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 49",
+      "ingested_at": "2026-04-06T17:51:12.151000"
+    }
+  },
+  {
+    "cin": "U74999MP2008PTC735863",
+    "company_name": "Centurion Infrastructure Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2017-08-06T00:00:00",
+    "state": "Madhya Pradesh",
+    "directors": [
+      "Rajesh Agarwal"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2023-12-22T00:00:00",
+    "email": "@@centurion.com",
+    "email_valid": false,
+    "data_quality": {
+      "notes": "Row 50",
+      "ingested_at": "2026-04-06T17:51:12.152000"
+    }
+  },
+  {
+    "cin": "U74999TN2019PTC535686",
+    "company_name": "National Advisors Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2022-06-17T00:00:00",
+    "state": "Tamil Nadu",
+    "directors": [
+      "Prakash Dubey",
+      "Kiran Tiwari"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2023-03-27T00:00:00",
+    "email": "admin@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 51",
+      "ingested_at": "2026-04-06T17:51:12.153000"
+    }
+  },
+  {
+    "cin": "U74999KA2021PTC809176",
+    "company_name": "Prime Logistics Pvt Ltd",
+    "status": "unknown",
+    "incorporation_date": "2013-02-26T00:00:00",
+    "state": "Karnataka",
+    "directors": [
+      "Renu Verma",
+      "Prakash Desai"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": "2023-02-18T00:00:00",
+    "email": "admin@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 52",
+      "ingested_at": "2026-04-06T17:51:12.154000"
+    }
+  },
+  {
+    "cin": "U74999WB2016PTC443939",
+    "company_name": "Bharat Innovations Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2018-08-23T00:00:00",
+    "state": "West Bengal",
+    "directors": [
+      "Suresh Kumar",
+      "Shobha Patel"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": "2024-03-04T00:00:00",
+    "email": "support@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 53",
+      "ingested_at": "2026-04-06T17:51:12.155000"
+    }
+  },
+  {
+    "cin": "U74999TS2016PTC539486",
+    "company_name": "Allied Finance Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2018-02-27T00:00:00",
+    "state": "Telangana",
+    "directors": [
+      "Smita Nair",
+      "Lalitha Srivastava"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2024-01-09T00:00:00",
+    "email": "accounts@outlook.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 54",
+      "ingested_at": "2026-04-06T17:51:12.156000"
+    }
+  },
+  {
+    "cin": "U74999TS2009PTC989227",
+    "company_name": "India Analytics Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2018-11-20T00:00:00",
+    "state": "Telangana",
+    "directors": [
+      "Lalitha Mehta",
+      "Rekha Singh"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": "2021-06-26T00:00:00",
+    "email": "contact@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 55",
+      "ingested_at": "2026-04-06T17:51:12.156000"
+    }
+  },
+  {
+    "cin": "U74999TN2012PTC251716",
+    "company_name": "Insight Advisors Pvt Ltd",
+    "status": "dormant",
+    "incorporation_date": "2020-04-03T00:00:00",
+    "state": "Tamil Nadu",
+    "directors": [
+      "Harish Tiwari",
+      "Archana Shah"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": "2021-01-05T00:00:00",
+    "email": "info@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 56",
+      "ingested_at": "2026-04-06T17:51:12.157000"
+    }
+  },
+  {
+    "cin": null,
+    "company_name": "Global Finance Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2017-02-15T00:00:00",
+    "state": "Uttar Pradesh",
+    "directors": [
+      "Madhuri Gupta",
+      "Priya Kumar"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": "2021-11-24T00:00:00",
+    "email": "hello@company.co.in..",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 57",
+      "ingested_at": "2026-04-06T17:51:12.158000"
+    }
+  },
+  {
+    "cin": "U74999KA2010PTC168872",
+    "company_name": "Meridian Technologies Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2017-09-10T00:00:00",
+    "state": "Karnataka",
+    "directors": [
+      "Sunita Srivastava",
+      "Seema Mukherjee"
+    ],
+    "paid_up_capital": 500000.0,
+    "last_filing_date": "2024-12-04T00:00:00",
+    "email": "contact@meridian.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 58",
+      "ingested_at": "2026-04-06T17:51:12.158000"
+    }
+  },
+  {
+    "cin": "U74999WB2013PTC547494",
+    "company_name": "Vertex Analytics Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2010-11-16T00:00:00",
+    "state": "West Bengal",
+    "directors": [
+      "Kavita Singh",
+      "Smita Tiwari"
+    ],
+    "paid_up_capital": 500000.0,
+    "last_filing_date": null,
+    "email": "support@vertex.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 59",
+      "ingested_at": "2026-04-06T17:51:12.159000"
+    }
+  },
+  {
+    "cin": "U74999KA2020PTC543481",
+    "company_name": "Synergy Consulting Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2012-10-10T00:00:00",
+    "state": "Karnataka",
+    "directors": [
+      "Kiran Reddy",
+      "Harish Srivastava"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": "2022-11-05T00:00:00",
+    "email": "admin@synergy.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 60",
+      "ingested_at": "2026-04-06T17:51:12.160000"
+    }
+  },
+  {
+    "cin": "U74999RJ2021PTC751924",
+    "company_name": "Centurion Infosystems Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2022-11-27T00:00:00",
+    "state": "Rajasthan",
+    "directors": [
+      "Geeta Dubey",
+      "Ramesh Joshi"
+    ],
+    "paid_up_capital": 500000.0,
+    "last_filing_date": "2021-05-06T00:00:00",
+    "email": "hello@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 61",
+      "ingested_at": "2026-04-06T17:51:12.160000"
+    }
+  },
+  {
+    "cin": "U74999MH2014PTC540226",
+    "company_name": "National Finance Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2012-11-12T00:00:00",
+    "state": "Maharashtra",
+    "directors": [
+      "Deepak Das",
+      "Kavita Iyer"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": "2021-03-02T00:00:00",
+    "email": "hello@national.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 62",
+      "ingested_at": "2026-04-06T17:51:12.161000"
+    }
+  },
+  {
+    "cin": "U74999GJ2013PTC550797",
+    "company_name": "Fintech Logistics Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2018-05-02T00:00:00",
+    "state": "Gujarat",
+    "directors": [
+      "Geeta Nair",
+      "Prakash Gupta"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2021-04-01T00:00:00",
+    "email": "hello@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 63",
+      "ingested_at": "2026-04-06T17:51:12.162000"
+    }
+  },
+  {
+    "cin": "U74999TN2016PTC685864",
+    "company_name": "Vertex Infosystems Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2014-12-02T00:00:00",
+    "state": "Tamil Nadu",
+    "directors": [
+      "Rohit Rao",
+      "Dinesh Gupta"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": "2024-06-03T00:00:00",
+    "email": "admin@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 64",
+      "ingested_at": "2026-04-06T17:51:12.162000"
+    }
+  },
+  {
+    "cin": "U74999MP2013PTC192410",
+    "company_name": "Nexus Realty Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2014-10-13T00:00:00",
+    "state": "Madhya Pradesh",
+    "directors": [
+      "Nandini Reddy",
+      "Deepak Singh"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": "2024-05-28T00:00:00",
+    "email": "support@nexus.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 65",
+      "ingested_at": "2026-04-06T17:51:12.163000"
+    }
+  },
+  {
+    "cin": "U74999TS2018PTC954628",
+    "company_name": "Horizon Finance Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2012-06-04T00:00:00",
+    "state": "Telangana",
+    "directors": [
+      "Shobha Pillai",
+      "Archana Pillai"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2021-11-06T00:00:00",
+    "email": "support@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 66",
+      "ingested_at": "2026-04-06T17:51:12.164000"
+    }
+  },
+  {
+    "cin": "U74999MP2013PTC258290",
+    "company_name": "Pioneer Realty Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2018-05-26T00:00:00",
+    "state": "Madhya Pradesh",
+    "directors": [
+      "Vijay Gupta",
+      "Suresh Kumar"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2021-09-12T00:00:00",
+    "email": "info@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 67",
+      "ingested_at": "2026-04-06T17:51:12.164000"
+    }
+  },
+  {
+    "cin": "U74999KA2015PTC708519",
+    "company_name": "Capital Innovations Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2022-10-21T00:00:00",
+    "state": "Karnataka",
+    "directors": [
+      "Anita Pillai"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2024-03-17T00:00:00",
+    "email": "info@capital.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 68",
+      "ingested_at": "2026-04-06T17:51:12.165000"
+    }
+  },
+  {
+    "cin": "U74999MH2015PTC649525",
+    "company_name": "Digital Finance Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2013-05-13T00:00:00",
+    "state": "Maharashtra",
+    "directors": [
+      "Anita Tiwari",
+      "Nandini Singh"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2023-10-22T00:00:00",
+    "email": "accounts@digital.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 69",
+      "ingested_at": "2026-04-06T17:51:12.166000"
+    }
+  },
+  {
+    "cin": "U74999MP2017PTC795847",
+    "company_name": "Centurion Services Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2018-12-22T00:00:00",
+    "state": "Madhya Pradesh",
+    "directors": [
+      "Girish Agarwal",
+      "Rajesh Banerjee"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2021-09-10T00:00:00",
+    "email": "accounts@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 70",
+      "ingested_at": "2026-04-06T17:51:12.166000"
+    }
+  },
+  {
+    "cin": "U74999KA2013PTC119116",
+    "company_name": "Infra Infrastructure Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2013-07-08T00:00:00",
+    "state": "Karnataka",
+    "directors": [
+      "Ashok Srivastava",
+      "Arvind Das"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": "2022-02-05T00:00:00",
+    "email": "support@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 71",
+      "ingested_at": "2026-04-06T17:51:12.167000"
+    }
+  },
+  {
+    "cin": "U74999MP2010PTC289630",
+    "company_name": "Prime Innovations Pvt Ltd",
+    "status": "under_liquidation",
+    "incorporation_date": "2019-02-08T00:00:00",
+    "state": "Madhya Pradesh",
+    "directors": [
+      "Ashok Das",
+      "Mohan Reddy"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": "2022-10-15T00:00:00",
+    "email": "hello@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 72",
+      "ingested_at": "2026-04-06T17:51:12.168000"
+    }
+  },
+  {
+    "cin": "U74999MP2020PTC500422",
+    "company_name": "Nexus Systems Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2021-04-26T00:00:00",
+    "state": "Madhya Pradesh",
+    "directors": [
+      "Kiran Srivastava",
+      "Anil Chatterjee"
+    ],
+    "paid_up_capital": 10000000.0,
+    "last_filing_date": "2023-11-02T00:00:00",
+    "email": "admin@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 73",
+      "ingested_at": "2026-04-06T17:51:12.169000"
+    }
+  },
+  {
+    "cin": "U74999GJ2021PTC558723",
+    "company_name": "Nexus Advisors Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2022-06-01T00:00:00",
+    "state": "Gujarat",
+    "directors": [
+      "Lalitha Mishra",
+      "Smita Reddy"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": "2024-06-17T00:00:00",
+    "email": "info@company.co.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 74",
+      "ingested_at": "2026-04-06T17:51:12.169000"
+    }
+  },
+  {
+    "cin": "U74999TN2021PTC595404",
+    "company_name": "Prime Solutions Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2015-10-01T00:00:00",
+    "state": "Tamil Nadu",
+    "directors": [
+      "Meena Naik",
+      "Santosh Hegde"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": "2021-04-09T00:00:00",
+    "email": "admin@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 75",
+      "ingested_at": "2026-04-06T17:51:12.170000"
+    }
+  },
+  {
+    "cin": "U74999MH2017PTC579318",
+    "company_name": "Digital Analytics Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2016-01-21T00:00:00",
+    "state": "Maharashtra",
+    "directors": [
+      "Ashok Rao"
+    ],
+    "paid_up_capital": 1000000.0,
+    "last_filing_date": "2022-03-23T00:00:00",
+    "email": "hello@yahoo.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 76",
+      "ingested_at": "2026-04-06T17:51:12.171000"
+    }
+  },
+  {
+    "cin": null,
+    "company_name": "Zenith Consulting Pvt Ltd",
+    "status": "active",
+    "incorporation_date": "2021-08-02T00:00:00",
+    "state": "Karnataka",
+    "directors": [
+      "Priya Verma",
+      "Harish Reddy"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2023-12-09T00:00:00",
+    "email": "info@zenith.in",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 77",
+      "ingested_at": "2026-04-06T17:51:12.171000"
+    }
+  },
+  {
+    "cin": "U74999TS2013PTC953025",
+    "company_name": "Prime Solutions Pvt Ltd",
+    "status": "unknown",
+    "incorporation_date": "2018-03-26T00:00:00",
+    "state": "Telangana",
+    "directors": [
+      "Renu Kumar"
+    ],
+    "paid_up_capital": 100000.0,
+    "last_filing_date": null,
+    "email": "info@outlook.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 78",
+      "ingested_at": "2026-04-06T17:51:12.172000"
+    }
+  },
+  {
+    "cin": "U74999UP2012PTC138399",
+    "company_name": "Vertex Realty Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2013-01-28T00:00:00",
+    "state": "Uttar Pradesh",
+    "directors": [
+      "Jyoti Yadav",
+      "Mohan Yadav"
+    ],
+    "paid_up_capital": 5000000.0,
+    "last_filing_date": "2023-06-04T00:00:00",
+    "email": "contact@vertex.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 79",
+      "ingested_at": "2026-04-06T17:51:12.173000"
+    }
+  },
+  {
+    "cin": "U74999TS2020PTC186624",
+    "company_name": "Paradigm Logistics Pvt Ltd",
+    "status": "strike_off",
+    "incorporation_date": "2017-03-18T00:00:00",
+    "state": "Telangana",
+    "directors": [
+      "Ashok Gupta",
+      "Jyoti Joshi"
+    ],
+    "paid_up_capital": 50000000.0,
+    "last_filing_date": "2021-06-03T00:00:00",
+    "email": "hello@gmail.com",
+    "email_valid": true,
+    "data_quality": {
+      "notes": "Row 80",
+      "ingested_at": "2026-04-06T17:51:12.173000"
+    }
+  }
+]
