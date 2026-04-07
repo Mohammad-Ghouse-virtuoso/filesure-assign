@@ -4,13 +4,13 @@ Tech Operations and Support Intern take-home assignment for FileSure India Priva
 
 ## Status
 
-- Parts 1 to 3 are implemented.
+- All parts 1 to 3 are implemented.
 - The video walkthrough outline is in `VIDEO_SCRIPT.md`.
 - API validation tests are implemented and passing.
 
 ## What This Project Builds
 
-1. A Python ingestion pipeline that reads a messy CSV, normalizes it, and writes records to MongoDB-compatible storage.
+1. A Python ingestion pipeline that reads a messy CSV, normalises it, and writes records to MongoDB-compatible storage.
 2. A Node.js Express API that exposes paginated, filtered, and aggregated company data.
 3. A minimal frontend that renders the API data in a table with filters and pagination.
 
@@ -20,7 +20,7 @@ Tech Operations and Support Intern take-home assignment for FileSure India Priva
 
 - Reads the provided messy CSV.
 - Handles missing fields without crashing.
-- Normalizes inconsistent date formats.
+- Normalises inconsistent date formats.
 - Cleans `paid_up_capital` into numeric values.
 - Flags invalid emails instead of dropping rows.
 - Adds an index for the API filter path: `status + state`.
